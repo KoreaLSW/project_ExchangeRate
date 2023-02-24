@@ -1,0 +1,24 @@
+.navbar {
+    display: flex;
+}
+
+.navbar .navbar_item {
+    width: 33%;
+    padding: 18px 0;
+    text-align: center;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    transition: all 0.3s ease;
+}
+
+.navbar .navbar_item:hover {
+    background-color: gold;
+}
+
+.navbar .navbar_item .navbar_item_text {
+    font-size: 24px;
+    transition: all 0.3s ease;
+}
+
+.navbar .navbar_item .navbar_item_text:hover {
+    color: white;
+}

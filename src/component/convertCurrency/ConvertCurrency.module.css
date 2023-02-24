@@ -1,0 +1,28 @@
+.convertCurrency {
+    margin-top: 12px;
+}
+.convertCurrency .convertCurrency_from_box .fromInput {
+    padding: 12px 8px;
+    font-size: 18px;
+}
+
+.convertCurrency .convertCurrency_from_box .fromSelect {
+    padding: 12px 8px;
+    font-size: 18px;
+}
+
+.convertCurrency .convertCurrency_to_box {
+    display: flex;
+    margin-top: 12px;
+}
+
+.convertCurrency .convertCurrency_to_box .toText {
+    width: 240px;
+    padding: 12px 8px;
+    font-size: 18px;
+    border: 1px solid black;
+}
+.convertCurrency .convertCurrency_to_box .toSelect {
+    padding: 12px 8px;
+    font-size: 18px;
+}

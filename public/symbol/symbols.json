@@ -1,0 +1,860 @@
+{
+    "symbols": {
+        "KRW": {
+            "description": "South Korean Won",
+            "code": "KRW",
+            "krCode": "대한민국"
+        },
+        "AED": {
+            "description": "United Arab Emirates Dirham",
+            "code": "AED",
+            "krCode": "아랍에미리트"
+        },
+        "AFN": {
+            "description": "Afghan Afghani",
+            "code": "AFN",
+            "krCode": "아프간"
+        },
+        "ALL": {
+            "description": "Albanian Lek",
+            "code": "ALL",
+            "krCode": "알바니아"
+        },
+        "AMD": {
+            "description": "Armenian Dram",
+            "code": "AMD",
+            "krCode": "아르메니아"
+        },
+        "ANG": {
+            "description": "Netherlands Antillean Guilder",
+            "code": "ANG",
+            "krCode": "네덜란드 앤틸리스 제도"
+        },
+        "AOA": {
+            "description": "Angolan Kwanza",
+            "code": "AOA",
+            "krCode": "앙골라"
+        },
+        "ARS": {
+            "description": "Argentine Peso",
+            "code": "ARS",
+            "krCode": "아르헨티나"
+        },
+        "AUD": {
+            "description": "Australian Dollar",
+            "code": "AUD",
+            "krCode": "호주"
+        },
+        "AWG": {
+            "description": "Aruban Florin",
+            "code": "AWG",
+            "krCode": "아루반"
+        },
+        "AZN": {
+            "description": "Azerbaijani Manat",
+            "code": "AZN",
+            "krCode": "아제르바이잔"
+        },
+        "BAM": {
+            "description": "Bosnia-Herzegovina Convertible Mark",
+            "code": "BAM",
+            "krCode": "보스니아-헤르체고비나 태환"
+        },
+        "BBD": {
+            "description": "Barbadian Dollar",
+            "code": "BBD",
+            "krCode": "바베이도스"
+        },
+        "BDT": {
+            "description": "Bangladeshi Taka",
+            "code": "BDT",
+            "krCode": "방글라데시"
+        },
+        "BGN": {
+            "description": "Bulgarian Lev",
+            "code": "BGN",
+            "krCode": "불가리아"
+        },
+        "BHD": {
+            "description": "Bahraini Dinar",
+            "code": "BHD",
+            "krCode": "바레인"
+        },
+        "BIF": {
+            "description": "Burundian Franc",
+            "code": "BIF",
+            "krCode": "부룬디"
+        },
+        "BMD": {
+            "description": "Bermudan Dollar",
+            "code": "BMD",
+            "krCode": "버뮤다"
+        },
+        "BND": {
+            "description": "Brunei Dollar",
+            "code": "BND",
+            "krCode": "브루나이"
+        },
+        "BOB": {
+            "description": "Bolivian Boliviano",
+            "code": "BOB",
+            "krCode": "볼리비아"
+        },
+        "BRL": {
+            "description": "Brazilian Real",
+            "code": "BRL",
+            "krCode": "브라질"
+        },
+        "BSD": {
+            "description": "Bahamian Dollar",
+            "code": "BSD",
+            "krCode": "바하마"
+        },
+        "BTC": {
+            "description": "Bitcoin",
+            "code": "BTC",
+            "krCode": "비트코인"
+        },
+        "BTN": {
+            "description": "Bhutanese Ngultrum",
+            "code": "BTN",
+            "krCode": "부탄"
+        },
+        "BWP": {
+            "description": "Botswanan Pula",
+            "code": "BWP",
+            "krCode": "보츠와나"
+        },
+        "BYN": {
+            "description": "Belarusian Ruble",
+            "code": "BYN",
+            "krCode": "벨로루시"
+        },
+        "BZD": {
+            "description": "Belize Dollar",
+            "code": "BZD",
+            "krCode": "벨리즈"
+        },
+        "CAD": {
+            "description": "Canadian Dollar",
+            "code": "CAD",
+            "krCode": "캐나다"
+        },
+        "CDF": {
+            "description": "Congolese Franc",
+            "code": "CDF",
+            "krCode": "콩고"
+        },
+        "CHF": {
+            "description": "Swiss Franc",
+            "code": "CHF",
+            "krCode": "스위스"
+        },
+        "CLF": {
+            "description": "Chilean Unit of Account (UF)",
+            "code": "CLF",
+            "krCode": "칠레"
+        },
+        "CLP": {
+            "description": "Chilean Peso",
+            "code": "CLP",
+            "krCode": "칠레"
+        },
+        "CNH": {
+            "description": "Chinese Yuan (Offshore)",
+            "code": "CNH",
+            "krCode": "중국(역외)"
+        },
+        "CNY": {
+            "description": "Chinese Yuan",
+            "code": "CNY",
+            "krCode": "중국"
+        },
+        "COP": {
+            "description": "Colombian Peso",
+            "code": "COP",
+            "krCode": "콜롬비아"
+        },
+        "CRC": {
+            "description": "Costa Rican Colón",
+            "code": "CRC",
+            "krCode": "코스타리카"
+        },
+        "CUC": {
+            "description": "Cuban Convertible Peso",
+            "code": "CUC",
+            "krCode": "쿠바 컨버터블"
+        },
+        "CUP": {
+            "description": "Cuban Peso",
+            "code": "CUP",
+            "krCode": "쿠바"
+        },
+        "CVE": {
+            "description": "Cape Verdean Escudo",
+            "code": "CVE",
+            "krCode": "카보베르데"
+        },
+        "CZK": {
+            "description": "Czech Republic Koruna",
+            "code": "CZK",
+            "krCode": "체코"
+        },
+        "DJF": {
+            "description": "Djiboutian Franc",
+            "code": "DJF",
+            "krCode": "지부티"
+        },
+        "DKK": {
+            "description": "Danish Krone",
+            "code": "DKK",
+            "krCode": "덴마크"
+        },
+        "DOP": {
+            "description": "Dominican Peso",
+            "code": "DOP",
+            "krCode": "도미니카"
+        },
+        "DZD": {
+            "description": "Algerian Dinar",
+            "code": "DZD",
+            "krCode": "알제리"
+        },
+        "EGP": {
+            "description": "Egyptian Pound",
+            "code": "EGP",
+            "krCode": "이집트"
+        },
+        "ERN": {
+            "description": "Eritrean Nakfa",
+            "code": "ERN",
+            "krCode": "에리트리아"
+        },
+        "ETB": {
+            "description": "Ethiopian Birr",
+            "code": "ETB",
+            "krCode": "에티오피아"
+        },
+        "EUR": {
+            "description": "Euro",
+            "code": "EUR",
+            "krCode": "유로"
+        },
+        "FJD": {
+            "description": "Fijian Dollar",
+            "code": "FJD",
+            "krCode": "피지"
+        },
+        "FKP": {
+            "description": "Falkland Islands Pound",
+            "code": "FKP",
+            "krCode": "포클랜드"
+        },
+        "GBP": {
+            "description": "British Pound Sterling",
+            "code": "GBP",
+            "krCode": "영국 제도"
+        },
+        "GEL": {
+            "description": "Georgian Lari",
+            "code": "GEL",
+            "krCode": "조지아"
+        },
+        "GGP": {
+            "description": "Guernsey Pound",
+            "code": "GGP",
+            "krCode": "건지"
+        },
+        "GHS": {
+            "description": "Ghanaian Cedi",
+            "code": "GHS",
+            "krCode": "가나"
+        },
+        "GIP": {
+            "description": "Gibraltar Pound",
+            "code": "GIP",
+            "krCode": "지브롤터"
+        },
+        "GMD": {
+            "description": "Gambian Dalasi",
+            "code": "GMD",
+            "krCode": "감비아"
+        },
+        "GNF": {
+            "description": "Guinean Franc",
+            "code": "GNF",
+            "krCode": "기니"
+        },
+        "GTQ": {
+            "description": "Guatemalan Quetzal",
+            "code": "GTQ",
+            "krCode": "과테말라 "
+        },
+        "GYD": {
+            "description": "Guyanaese Dollar",
+            "code": "GYD",
+            "krCode": "가이아나"
+        },
+        "HKD": {
+            "description": "Hong Kong Dollar",
+            "code": "HKD",
+            "krCode": "홍콩"
+        },
+        "HNL": {
+            "description": "Honduran Lempira",
+            "code": "HNL",
+            "krCode": "온두라스"
+        },
+        "HRK": {
+            "description": "Croatian Kuna",
+            "code": "HRK",
+            "krCode": "크로아티아"
+        },
+        "HTG": {
+            "description": "Haitian Gourde",
+            "code": "HTG",
+            "krCode": "아이티"
+        },
+        "HUF": {
+            "description": "Hungarian Forint",
+            "code": "HUF",
+            "krCode": "헝가리"
+        },
+        "IDR": {
+            "description": "Indonesian Rupiah",
+            "code": "IDR",
+            "krCode": "인도네시아"
+        },
+        "ILS": {
+            "description": "Israeli New Sheqel",
+            "code": "ILS",
+            "krCode": "이스라엘 뉴"
+        },
+        "IMP": {
+            "description": "Manx pound",
+            "code": "IMP",
+            "krCode": "맹크스"
+        },
+        "INR": {
+            "description": "Indian Rupee",
+            "code": "INR",
+            "krCode": "인도"
+        },
+        "IQD": {
+            "description": "Iraqi Dinar",
+            "code": "IQD",
+            "krCode": "이라크"
+        },
+        "IRR": {
+            "description": "Iranian Rial",
+            "code": "IRR",
+            "krCode": "이란"
+        },
+        "ISK": {
+            "description": "Icelandic Króna",
+            "code": "ISK",
+            "krCode": "아이슬란드"
+        },
+        "JEP": {
+            "description": "Jersey Pound",
+            "code": "JEP",
+            "krCode": "저지"
+        },
+        "JMD": {
+            "description": "Jamaican Dollar",
+            "code": "JMD",
+            "krCode": "자메이카"
+        },
+        "JOD": {
+            "description": "Jordanian Dinar",
+            "code": "JOD",
+            "krCode": "요르단"
+        },
+        "JPY": {
+            "description": "Japanese Yen",
+            "code": "JPY",
+            "krCode": "일본"
+        },
+        "KES": {
+            "description": "Kenyan Shilling",
+            "code": "KES",
+            "krCode": "케냐"
+        },
+        "KGS": {
+            "description": "Kyrgystani Som",
+            "code": "KGS",
+            "krCode": "키르기스스탄"
+        },
+        "KHR": {
+            "description": "Cambodian Riel",
+            "code": "KHR",
+            "krCode": "캄보디아"
+        },
+        "KMF": {
+            "description": "Comorian Franc",
+            "code": "KMF",
+            "krCode": "코모로"
+        },
+        "KPW": {
+            "description": "North Korean Won",
+            "code": "KPW",
+            "krCode": "북한"
+        },
+
+        "KWD": {
+            "description": "Kuwaiti Dinar",
+            "code": "KWD",
+            "krCode": "쿠웨이트"
+        },
+        "KYD": {
+            "description": "Cayman Islands Dollar",
+            "code": "KYD",
+            "krCode": "케이맨 제도"
+        },
+        "KZT": {
+            "description": "Kazakhstani Tenge",
+            "code": "KZT",
+            "krCode": "카자흐스탄"
+        },
+        "LAK": {
+            "description": "Laotian Kip",
+            "code": "LAK",
+            "krCode": "라오스"
+        },
+        "LBP": {
+            "description": "Lebanese Pound",
+            "code": "LBP",
+            "krCode": "레바논"
+        },
+        "LKR": {
+            "description": "Sri Lankan Rupee",
+            "code": "LKR",
+            "krCode": "스리랑카"
+        },
+        "LRD": {
+            "description": "Liberian Dollar",
+            "code": "LRD",
+            "krCode": "라이베리아"
+        },
+        "LSL": {
+            "description": "Lesotho Loti",
+            "code": "LSL",
+            "krCode": "레소토"
+        },
+        "LYD": {
+            "description": "Libyan Dinar",
+            "code": "LYD",
+            "krCode": "리비아"
+        },
+        "MAD": {
+            "description": "Moroccan Dirham",
+            "code": "MAD",
+            "krCode": "모로칸"
+        },
+        "MDL": {
+            "description": "Moldovan Leu",
+            "code": "MDL",
+            "krCode": "몰도바"
+        },
+        "MGA": {
+            "description": "Malagasy Ariary",
+            "code": "MGA",
+            "krCode": "말라가시"
+        },
+        "MKD": {
+            "description": "Macedonian Denar",
+            "code": "MKD",
+            "krCode": "마케도니아"
+        },
+        "MMK": {
+            "description": "Myanma Kyat",
+            "code": "MMK",
+            "krCode": "미얀마"
+        },
+        "MNT": {
+            "description": "Mongolian Tugrik",
+            "code": "MNT",
+            "krCode": "몽골"
+        },
+        "MOP": {
+            "description": "Macanese Pataca",
+            "code": "MOP",
+            "krCode": "매캐니즈"
+        },
+        "MRO": {
+            "description": "Mauritanian Ouguiya (pre-2018)",
+            "code": "MRO",
+            "krCode": "모리타니아(2018년 이전)"
+        },
+        "MRU": {
+            "description": "Mauritanian Ouguiya",
+            "code": "MRU",
+            "krCode": "모리타니아"
+        },
+        "MUR": {
+            "description": "Mauritian Rupee",
+            "code": "MUR",
+            "krCode": "모리셔스"
+        },
+        "MVR": {
+            "description": "Maldivian Rufiyaa",
+            "code": "MVR",
+            "krCode": "몰디브"
+        },
+        "MWK": {
+            "description": "Malawian Kwacha",
+            "code": "MWK",
+            "krCode": "말라위"
+        },
+        "MXN": {
+            "description": "Mexican Peso",
+            "code": "MXN",
+            "krCode": "멕시코"
+        },
+        "MYR": {
+            "description": "Malaysian Ringgit",
+            "code": "MYR",
+            "krCode": "말레이시아"
+        },
+        "MZN": {
+            "description": "Mozambican Metical",
+            "code": "MZN",
+            "krCode": "모잠비크"
+        },
+        "NAD": {
+            "description": "Namibian Dollar",
+            "code": "NAD",
+            "krCode": "나미비아"
+        },
+        "NGN": {
+            "description": "Nigerian Naira",
+            "code": "NGN",
+            "krCode": "나이지리아"
+        },
+        "NIO": {
+            "description": "Nicaraguan Córdoba",
+            "code": "NIO",
+            "krCode": "니카라과"
+        },
+        "NOK": {
+            "description": "Norwegian Krone",
+            "code": "NOK",
+            "krCode": "노르웨이"
+        },
+        "NPR": {
+            "description": "Nepalese Rupee",
+            "code": "NPR",
+            "krCode": "네팔"
+        },
+        "NZD": {
+            "description": "New Zealand Dollar",
+            "code": "NZD",
+            "krCode": "뉴질랜드"
+        },
+        "OMR": {
+            "description": "Omani Rial",
+            "code": "OMR",
+            "krCode": "오만"
+        },
+        "PAB": {
+            "description": "Panamanian Balboa",
+            "code": "PAB",
+            "krCode": "파나마"
+        },
+        "PEN": {
+            "description": "Peruvian Nuevo Sol",
+            "code": "PEN",
+            "krCode": "페루비안 누에보"
+        },
+        "PGK": {
+            "description": "Papua New Guinean Kina",
+            "code": "PGK",
+            "krCode": "파푸아뉴기니"
+        },
+        "PHP": {
+            "description": "Philippine Peso",
+            "code": "PHP",
+            "krCode": "필리핀"
+        },
+        "PKR": {
+            "description": "Pakistani Rupee",
+            "code": "PKR",
+            "krCode": "파키스탄"
+        },
+        "PLN": {
+            "description": "Polish Zloty",
+            "code": "PLN",
+            "krCode": "폴란드"
+        },
+        "PYG": {
+            "description": "Paraguayan Guarani",
+            "code": "PYG",
+            "krCode": "파라과이"
+        },
+        "QAR": {
+            "description": "Qatari Rial",
+            "code": "QAR",
+            "krCode": "카타르"
+        },
+        "RON": {
+            "description": "Romanian Leu",
+            "code": "RON",
+            "krCode": "루마니아"
+        },
+        "RSD": {
+            "description": "Serbian Dinar",
+            "code": "RSD",
+            "krCode": "세르비아"
+        },
+        "RUB": {
+            "description": "Russian Ruble",
+            "code": "RUB",
+            "krCode": "러시아"
+        },
+        "RWF": {
+            "description": "Rwandan Franc",
+            "code": "RWF",
+            "krCode": "르완다"
+        },
+        "SAR": {
+            "description": "Saudi Riyal",
+            "code": "SAR",
+            "krCode": "사우디"
+        },
+        "SBD": {
+            "description": "Solomon Islands Dollar",
+            "code": "SBD",
+            "krCode": "아랍에솔로몬 제도미리트"
+        },
+        "SCR": {
+            "description": "Seychellois Rupee",
+            "code": "SCR",
+            "krCode": "세이셸"
+        },
+        "SDG": {
+            "description": "Sudanese Pound",
+            "code": "SDG",
+            "krCode": "수단"
+        },
+        "SEK": {
+            "description": "Swedish Krona",
+            "code": "SEK",
+            "krCode": "스웨덴"
+        },
+        "SGD": {
+            "description": "Singapore Dollar",
+            "code": "SGD",
+            "krCode": "싱가포르"
+        },
+        "SHP": {
+            "description": "Saint Helena Pound",
+            "code": "SHP",
+            "krCode": "세인트헬레나"
+        },
+        "SLL": {
+            "description": "Sierra Leonean Leone",
+            "code": "SLL",
+            "krCode": "시에라리온"
+        },
+        "SOS": {
+            "description": "Somali Shilling",
+            "code": "SOS",
+            "krCode": "소말리아"
+        },
+        "SRD": {
+            "description": "Surinamese Dollar",
+            "code": "SRD",
+            "krCode": "수리남"
+        },
+        "SSP": {
+            "description": "South Sudanese Pound",
+            "code": "SSP",
+            "krCode": "남수단"
+        },
+        "STD": {
+            "description": "São Tomé and Príncipe Dobra (pre-2018)",
+            "code": "STD",
+            "krCode": "상투메 프린시페(2018년 이전)"
+        },
+        "STN": {
+            "description": "São Tomé and Príncipe Dobra",
+            "code": "STN",
+            "krCode": "상투메 프린시페"
+        },
+        "SVC": {
+            "description": "Salvadoran Colón",
+            "code": "SVC",
+            "krCode": "살바도르"
+        },
+        "SYP": {
+            "description": "Syrian Pound",
+            "code": "SYP",
+            "krCode": "시리아"
+        },
+        "SZL": {
+            "description": "Swazi Lilangeni",
+            "code": "SZL",
+            "krCode": "에스와티니"
+        },
+        "THB": {
+            "description": "Thai Baht",
+            "code": "THB",
+            "krCode": "태국"
+        },
+        "TJS": {
+            "description": "Tajikistani Somoni",
+            "code": "TJS",
+            "krCode": "타지키스탄"
+        },
+        "TMT": {
+            "description": "Turkmenistani Manat",
+            "code": "TMT",
+            "krCode": "투르크메니스탄"
+        },
+        "TND": {
+            "description": "Tunisian Dinar",
+            "code": "TND",
+            "krCode": "튀니지"
+        },
+        "TOP": {
+            "description": "Tongan Pa'anga",
+            "code": "TOP",
+            "krCode": "통가"
+        },
+        "TRY": {
+            "description": "Turkish Lira",
+            "code": "TRY",
+            "krCode": "터키"
+        },
+        "TTD": {
+            "description": "Trinidad and Tobago Dollar",
+            "code": "TTD",
+            "krCode": "트리니다드 토바고"
+        },
+        "TWD": {
+            "description": "New Taiwan Dollar",
+            "code": "TWD",
+            "krCode": "대만"
+        },
+        "TZS": {
+            "description": "Tanzanian Shilling",
+            "code": "TZS",
+            "krCode": "탄자니아"
+        },
+        "UAH": {
+            "description": "Ukrainian Hryvnia",
+            "code": "UAH",
+            "krCode": "우크라이나"
+        },
+        "UGX": {
+            "description": "Ugandan Shilling",
+            "code": "UGX",
+            "krCode": "우간다"
+        },
+        "USD": {
+            "description": "United States Dollar",
+            "code": "USD",
+            "krCode": "미국"
+        },
+        "UYU": {
+            "description": "Uruguayan Peso",
+            "code": "UYU",
+            "krCode": "우루과이"
+        },
+        "UZS": {
+            "description": "Uzbekistan Som",
+            "code": "UZS",
+            "krCode": "우즈베키스탄"
+        },
+        "VEF": {
+            "description": "Venezuelan Bolívar Fuerte (Old)",
+            "code": "VEF",
+            "krCode": "베네수엘라(구)"
+        },
+        "VES": {
+            "description": "Venezuelan Bolívar Soberano",
+            "code": "VES",
+            "krCode": "베네수엘라"
+        },
+        "VND": {
+            "description": "Vietnamese Dong",
+            "code": "VND",
+            "krCode": "베트남"
+        },
+        "VUV": {
+            "description": "Vanuatu Vatu",
+            "code": "VUV",
+            "krCode": "바누아투"
+        },
+        "WST": {
+            "description": "Samoan Tala",
+            "code": "WST",
+            "krCode": "사모아"
+        },
+        "XAF": {
+            "description": "CFA Franc BEAC",
+            "code": "XAF",
+            "krCode": "CFA 프랑"
+        },
+        "XAG": {
+            "description": "Silver Ounce",
+            "code": "XAG",
+            "krCode": "은"
+        },
+        "XAU": {
+            "description": "Gold Ounce",
+            "code": "XAU",
+            "krCode": "금"
+        },
+        "XCD": {
+            "description": "East Caribbean Dollar",
+            "code": "XCD",
+            "krCode": "동카리브해"
+        },
+        "XDR": {
+            "description": "Special Drawing Rights",
+            "code": "XDR",
+            "krCode": "특별인출권"
+        },
+        "XOF": {
+            "description": "CFA Franc BCEAO",
+            "code": "XOF",
+            "krCode": "CFA 프랑"
+        },
+        "XPD": {
+            "description": "Palladium Ounce",
+            "code": "XPD",
+            "krCode": "팔라듐"
+        },
+        "XPF": {
+            "description": "CFP Franc",
+            "code": "XPF",
+            "krCode": "아랍에미리트"
+        },
+        "XPT": {
+            "description": "Platinum Ounce",
+            "code": "XPT",
+            "krCode": "플래티넘"
+        },
+        "YER": {
+            "description": "Yemeni Rial",
+            "code": "YER",
+            "krCode": "예멘"
+        },
+        "ZAR": {
+            "description": "South African Rand",
+            "code": "ZAR",
+            "krCode": "남아프리카"
+        },
+        "ZMW": {
+            "description": "Zambian Kwacha",
+            "code": "ZMW",
+            "krCode": "잠비아"
+        },
+        "ZWL": {
+            "description": "Zimbabwean Dollar",
+            "code": "ZWL",
+            "krCode": "짐바브웨 달러"
+        }
+    }
+}

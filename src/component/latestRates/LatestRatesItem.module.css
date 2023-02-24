@@ -1,0 +1,19 @@
+.latestRatesItem_box {
+    display: flex;
+}
+
+.latestRatesItem_box .symbol {
+    width: 200px;
+    line-height: 40px;
+    padding: 0 9px;
+    background-color: #dbdbdb;
+    font-weight: 900;
+}
+
+.latestRatesItem_box .amount {
+    width: 200px;
+    height: 40px;
+    line-height: 40px;
+    margin-left: 10px;
+    font-size: 18px;
+}
